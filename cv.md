@@ -1,5 +1,5 @@
 # Ekaterina Radchenko
-![Ekaterina Radchenko] (profile_photo.jpg)
+![Ekaterina Radchenko] (/profile_photo.jpg)
 
 ## Contacts
 - **Email**: dafna1410@yandex.ru
