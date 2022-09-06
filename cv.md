@@ -1,4 +1,5 @@
 # Ekaterina Radchenko
+![Ekaterina Radchenko] (profile_photo.jpg)
 
 ## Contacts
 - **Email**: dafna1410@yandex.ru
@@ -6,7 +7,7 @@
 - [GitHub](https://github.com/neemkashu)
 
 ## About me
-Physicist with 7 years of lab experience and scientific data processing seeking for a career change. Code-writing and exploring new software is the most enjoyable part of my current work, so I decided to fully immerse in IT career. The desired position is junior front-end engineer.
+Physicist with 7 years of lab experience and scientific data processing seeking for a career change. Code-writing and exploring new software is the most enjoyable part of my current work, so I decided to fully immerse into IT career. The desired position is junior front-end engineer.
 
 ## Skills
 
